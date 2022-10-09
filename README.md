@@ -1,1 +1,1 @@
-# landing-page-example.github.io
+# simpl landing page
